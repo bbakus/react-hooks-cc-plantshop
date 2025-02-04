@@ -41,6 +41,30 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Bonsai",
+      "image": "https://www.mydomaine.com/thmb/Z6ZsWnXj8hVOA0r8WOliuz0Ta1k=/1934x0/filters:no_upscale():strip_icc()/GettyImages-598322873-409b66c4895d492eb28fde9e752d98ad.jpg",
+      "price": "69.99",
+      "id": 8
+    },
+    {
+      "name": "Juniper",
+      "image": "https://bonsaimirai.com/sites/default/files/images/species/species-featured-photo/california-juniper-image.jpeg",
+      "price": "200",
+      "id": 9
+    },
+    {
+      "name": "Douglas Fir Bonsai",
+      "image": "https://bonsaimirai.com/sites/default/files/images/species/species-featured-photo/douglas-fir-page.jpeg",
+      "price": "420",
+      "id": 10
+    },
+    {
+      "name": "another bonsai",
+      "image": "https://xedoo.com/wp-content/uploads/2023/06/bonsai-juniperus-chinensis-202306091123.jpg",
+      "price": "25",
+      "id": 11
     }
   ]
 }
